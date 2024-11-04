@@ -51,7 +51,7 @@ Setelah perulangan selesai, baris ini menampilkan pesan `"Selesai"` untuk menand
 
 Code program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/db2b670f8d7f34ed4a0ae286dd7a3d3a853fed97/Image/latihan1.png)
+Gambar/IMG_20241104_110627.jpg
 
 Hasil program tersebut:
 
