@@ -51,7 +51,7 @@ Setelah perulangan selesai, baris ini menampilkan pesan `"Selesai"` untuk menand
 
 Code program tersebut:
 
-Gambar/IMG_20241104_110627.jpg
+![gambar](https://github.com/Fathir4118/Lobpy3/blob/main/Gambar/IMG_20241104_110611.jpg) 
 
 Hasil program tersebut:
 
